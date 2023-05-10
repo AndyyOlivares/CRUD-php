@@ -1,9 +1,9 @@
 # CRUD-php
 ## Herramientas Utilizadas
-
-###-XAMP
-###-PHP
-###-MySQL workbench
+- XAMP
+- PHP
+- MySQL workbench
+- VS Code
 
 ## Como visualizarlo correctamente
 
