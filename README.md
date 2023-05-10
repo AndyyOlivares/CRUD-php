@@ -1,7 +1,7 @@
 # CRUD-php
 ## Herramientas Utilizadas
 - XAMP
-- PHP
+- PHP 8.2.4
 - MySQL workbench
 - VS Code
 
