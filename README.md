@@ -19,6 +19,6 @@ Luego debes tener un base de datos creada con la tabla "usuarios" con los siguie
 - apellido
 - fono
 
-Despues debes revisar si para ingresar a tu BD creada utilizas clave, si no utilizas clave debes ir al archivo conexion.php y borrar password,asi sucesivamente con los demas parametros definidos.
+Despues debes revisar si para ingresar a tu BD creada utilizas clave, si no utilizas clave debes ir al archivo conexion.php y dejar password sin ninguna valor y asi sucesivamente con los demas parametros definidos.
 
 Finalmente debes iniciar XAMP y activar Apache y MySQL para que pueda acceder a la BD creada y asi trabajar correctamente.
